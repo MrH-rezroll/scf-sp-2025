@@ -1,0 +1,23 @@
+
+h1{
+    font-size: 100%; 
+    color: blue;
+ }
+ h2{
+    font-size: 200%; 
+    color: pink;
+ }
+ span{
+     font-style: italic;
+ }
+ div{
+     display: block;
+     width: 25%;
+     border: 1px solid;
+     float: left;
+     padding: 1%;
+ }
+ footer{
+    margin-top: 10px;
+     clear: both;
+ }
