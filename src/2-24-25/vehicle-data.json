@@ -1,0 +1,16 @@
+[
+    {
+        "type": "crossover suv",
+        "color": "yellow",
+        "tire": "Goodyear",
+        "make": "Toyota",
+        "model": "Rav 4"
+    },
+    {
+        "type": "truck",
+        "color": "red",
+        "tire": "Goodyear",
+        "make": "Toyota",
+        "model": "Tacoma"
+    }
+]
