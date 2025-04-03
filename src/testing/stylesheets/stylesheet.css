@@ -1,0 +1,19 @@
+#SearchContainer{ 
+    width: 75%;
+    height: 250px;
+    padding:20px;
+    background-image: url("");
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    opacity: 80%;
+}
+#TextBox{
+    height: 36px;
+}
+#DisplayContents{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#SearchContents{
+    margin-left: 400px;
+}
